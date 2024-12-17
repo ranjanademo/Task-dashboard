@@ -1,6 +1,7 @@
 # TaskDashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+The Task Management Dashboard provides a user-friendly interface for efficiently managing tasks. The application supports all essential CRUD (Create, Read, Update, Delete) operations, enabling users to handle their tasks with filter and sorting.
 
 ## Development server
 
